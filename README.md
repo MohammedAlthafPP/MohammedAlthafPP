@@ -1,4 +1,4 @@
-[![MasterHead](https://binaryinformatics.com/wp-content/uploads/2019/01/MERN-Stack-Development-and-Consulting-Services.jpg)](https://mohammedalthafpp.github.io)
+[![MasterHead](https://res.cloudinary.com/althaf-ecommerce/image/upload/v1661928786/samples/gitbanner_v9ju8a.jpg)](https://mohammedalthafpp.github.io)
 <h1 align="center">Hi 👋, I'm Mohammed Althaf</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img
