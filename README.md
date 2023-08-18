@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on **Ecommerce Project**
 
-- 🌱 I’m currently learning **React Redux**
+- 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about **MERN stack and related technologies**
 
@@ -29,7 +29,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">   
   <a href="https://linkedin.com/in/mohammed-althaf-pp-1962161ab"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"/></a>
-  <a href="https://www.instagram.com/althaf_mongam/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="25" /></a>
+  <a href="https://www.instagram.com/iam____althaf/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="25" /></a>
 
 
 </p>
